@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Efas
-- 👀 I’m interested in Deeplearning & physics informed Machine Learning
-- 🌱 I’m currently learning Machine Learning & Deep Learning
-- 💞️ I’m looking to collaborate on DataScience or Deep Learning Projects
-- 📫 reach me through mail : efasibrahim@gmail.com
+- 👋 Hi, I’m Efx
+
 
 
 <!---
